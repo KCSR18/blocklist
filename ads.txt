@@ -4,3 +4,5 @@ googleadservices.com
 hero-wars.com
 tpc.googlesyndication.com
 yt3.ggpht.com/proxy
+doubleclick.net
+ad.doubleclick.net
