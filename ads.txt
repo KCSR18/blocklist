@@ -3,3 +3,4 @@ s0.2mdn.net
 googleadservices.com
 hero-wars.com
 tpc.googlesyndication.com
+yt3.ggpht.com/proxy
