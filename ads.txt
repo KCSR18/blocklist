@@ -1,2 +1,4 @@
 googleads.g.doubleclick.net
 s0.2mdn.net
+googleadservices.com
+hero-wars.com
